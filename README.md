@@ -109,7 +109,7 @@ Each daily brief includes:
 - **Funding, Investments & M&A**
 - **Events & Sponsorships**
 - **Key Takeaways & Implications** — 3–5 strategic bullet points
-- **Sources** — All URLs cited
+- **Sources** — Include sources for each newly introduced updates in bulleted list
 
 Sections with no news are omitted automatically. If no competitors have news, a short notice is posted instead.
 
