@@ -75,7 +75,7 @@ The executive brief follows this structure:
 - **Funding, Investments & M&A**
 - **Events & Sponsorships**
 - **Key Takeaways & Implications** — 3–5 strategic bullet points
-- **Sources** — Include sources for each newly introduced updates in bulleted list
+- **Sources** — All sources cited
 
 Sections with no relevant news are omitted automatically.
 
